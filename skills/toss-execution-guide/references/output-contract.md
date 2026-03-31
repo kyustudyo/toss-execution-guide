@@ -27,4 +27,5 @@ Diagram rules:
 - flowchart: decision nodes, success/failure/pending branches
 - no fake diagram made from plain cards
 - large diagrams may use a `+` button with fit-to-screen popup
-
+- popup should support `cmd + scroll` zoom for close reading
+- popup must not render blank content

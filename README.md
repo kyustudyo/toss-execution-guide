@@ -21,3 +21,12 @@ Turn any product, feature, SDK, architecture, or implementation topic into a hig
 - implementation / QA / ops checklists
 - risks and open decisions
 
+## Diagram UX
+
+Large diagrams should remain readable both inside the page and in a popup view.
+
+- allow a `+` button on diagram cards when needed
+- open the diagram in a fit-to-screen modal popup
+- keep the popup readable without layout breakage
+- support `cmd + scroll` zoom in the popup for closer inspection
+- never show a blank popup
