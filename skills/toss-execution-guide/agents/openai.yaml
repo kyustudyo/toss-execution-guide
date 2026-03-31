@@ -1,0 +1,4 @@
+version: 1
+agent:
+  name: toss-execution-guide
+  default_prompt: "Use $toss-execution-guide to turn the provided topic into a Toss-style HTML execution guide with clear next steps, diagrams, checklists, risks, and open decisions."
